@@ -1,4 +1,4 @@
 # Generative-art
 
 
-![Particles](img/particles.png "Particles")
+![Particles](img/particles.png  width="250")
